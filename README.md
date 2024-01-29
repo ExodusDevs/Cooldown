@@ -1,5 +1,5 @@
 # Cooldown
-A cooldown library for your code from PocketMine-MP 5.0.0
+A cooldown library for your code from PocketMine-MP
 
 ## Characteristics
 - Very simple and easy to use
