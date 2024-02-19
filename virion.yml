@@ -1,5 +1,5 @@
 name: Cooldown
 api: [4.0.0, 5.0.0]
 antigen: exodus\cooldown
-version: 0.0.0+dev
+version: 0.0.0
 authors: [iSrDxv]
